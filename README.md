@@ -12,4 +12,4 @@ Languages you'll see here:
 
 Need help? Contact me:
 
-[![Discord](https://dcbadge.vercel.app/api/shield/341021446304301058)](https://axera.digital/discord)
+[![Discord](https://img.shields.io/badge/Axera.Digital%20On%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://axera.digital/discord)
