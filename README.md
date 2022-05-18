@@ -12,4 +12,4 @@ Languages you'll see here:
 
 Need help? Contact me:
 
-![Discord](https://dcbadge.vercel.app/api/shield/341021446304301058)
+[![Discord](https://dcbadge.vercel.app/api/shield/341021446304301058)](https://axera.digital/discord)
