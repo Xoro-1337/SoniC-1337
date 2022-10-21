@@ -12,4 +12,4 @@ Languages you'll see here:
 
 Need help? Contact me:
 
-[![Discord](https://img.shields.io/badge/Axera.Digital%20On%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://axera.digital/discord)
+[![Discord](https://img.shields.io/badge/Atom%20Auth%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DDUcysQxtF)
