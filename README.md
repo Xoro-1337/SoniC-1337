@@ -1,4 +1,4 @@
-[![SoniC's GitHub](https://github-readme-stats.vercel.app/api?username=SoniC-1337&hide=issues)](https://github.com/SoniC-1337/)
+[![SoniC's GitHub](https://github-readme-stats.vercel.app/api?username=SoniC-1337&count_private=true&hide=issues&show_icons=true)](https://github.com/SoniC-1337/)
 
 
 Languages you'll see here:
