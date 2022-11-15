@@ -9,6 +9,12 @@ Languages you'll see here:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
+Fameworks I work with:
+
+![Flask](https://img.shields.io/badge/flask-%2300599C.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%2300599C.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Bootstrap5](https://img.shields.io/badge/bootstrap5-%2300599C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 Need help? Contact me:
 
