@@ -12,8 +12,3 @@ Fameworks I work with:
 ![Flask](https://img.shields.io/badge/flask-%2300599C.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%2300599C.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Bootstrap5](https://img.shields.io/badge/bootstrap5-%2300599C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-Need help? Contact me:
-
-[![Discord](https://img.shields.io/badge/Atom%20Auth%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DDUcysQxtF)
